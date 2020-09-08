@@ -121,6 +121,9 @@
         <div class="flex max-w-6xl mx-auto p-4">
           <span>© 2020 Tryston Perry, all rights reserved</span>
           <div class="flex-grow"></div>
+          <a href="https://github.com/DoiceIO" class="mr-2">
+            <i class="fab fa-github"></i>
+          </a>
           <a href="https://twitter.com/DoiceIO">
             <i class="fab fa-twitter"></i>
           </a>
