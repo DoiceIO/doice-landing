@@ -20,7 +20,20 @@
             >Install Guide</a>
           </div>
         </div>
-        <img src="https://i.imgur.com/4Dksr5L.png" alt />
+
+        <div
+          class="relative overflow-hidden max-w-full"
+          style="padding-bottom:56.25%; padding-top: 30px; height:0;"
+        >
+          <iframe
+            src="https://www.youtube.com/embed/1Nf5P4eP9OI"
+            frameborder="0"
+            allowfullscreen
+            auotplay
+            muted
+            class="absolute top-0 left-0 w-full h-full"
+          ></iframe>
+        </div>
       </div>
 
       <!-- Features -->
