@@ -3,7 +3,8 @@
     <input
       type="email"
       placeholder="Enter your email..."
-      class="flex-grow bg-gray-200 text-xl text-black px-4 rounded-lg m-1 mr-0"
+      class="flex-grow bg-gray-200 text-xl text-black px-2 rounded-lg m-1 mr-0"
+      style="min-width:0"
     />
     <button
       type="submit"
