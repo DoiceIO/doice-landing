@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-800">
     <div class="text-white">
-      <div class="w-full max-w-6xl mx-auto">
+      <div class="w-full max-w-6xl mx-auto px-4">
         <div class="text-center py-16">
           <h1 class="text-4xl font-bold">Self-Hosted Rooms To Hang With Your Friends</h1>
           <p

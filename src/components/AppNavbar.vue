@@ -1,10 +1,10 @@
 <template>
-  <nav class="w-full bg-gray-900 h-24 p-6">
+  <nav class="w-full bg-gray-900 p-6">
     <div class="max-w-6xl mx-auto">
-      <div class="text-3xl text-white flex items-center">
+      <router-link to="/" class="text-xl text-white flex items-center">
         <i class="fas fa-desktop"></i>
         <h1 class="pl-2 font-bold">Doice</h1>
-      </div>
+      </router-link>
     </div>
   </nav>
 </template>
